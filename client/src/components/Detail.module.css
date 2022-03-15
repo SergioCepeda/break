@@ -1,0 +1,66 @@
+.component{
+    margin: 0%;
+  
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    
+}
+.cardRead {
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 100;
+    letter-spacing: 6px;
+    margin: 5px 0 20px;
+    position: relative;
+    text-align: right;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(36, 126, 185);
+  }
+  .title{
+    color: rgb(19, 221, 46);
+    font-family: 'Droid serif', serif; 
+    font-size: 35px; 
+    font-weight: 200; 
+    font-style: italic; 
+    line-height: 44px; 
+    margin: 10px 12px;
+    padding: 10px 12px; 
+    text-align: center;
+}
+
+.createButton{
+  padding: 5px;
+  margin: 5px;
+  width: 200px;
+  font-size: large;
+  border-radius: 5px;
+  border: 2px solid rgb(36, 167, 112);
+  background-color: rgb(30, 170, 112);
+  color: rgb(222, 224, 224);
+  text-decoration: none;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.img{
+  display:block;
+
+margin-left: auto;
+
+margin-right: auto
+}
+.title2{
+color: rgb(5, 17, 6);
+    font-family: 'Droid serif', serif; 
+    font-size: 35px; 
+    font-weight: 200; 
+    font-style: italic; 
+    line-height: 44px; 
+    margin: 10px 12px;
+    padding: 10px 12px; 
+    text-align: center;
+}
